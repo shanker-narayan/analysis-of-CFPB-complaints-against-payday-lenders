@@ -31,14 +31,18 @@ Following a wave of banking deregulation in the 1980s, the financial industry un
 Existing research documents the mechanism of payday lending, which groups are most vulnerable and affected, and how states are taking action against lenders, but CFPB complaints provide further insight into the companies committing the alleged harm, the frequency with which individuals struggle to contact or resolve disputes with their lenders, and the types of situations the agency is most often asked to mediate. The database also allows researchers to assess whether state regulatory efforts match how complaints are distributed geographically.
 
 ****Data and Methodology****
+
+
 I reviewed over 5,600 CFPB complaints filed against payday lenders between 2023 and May 2026, aggregating them by complaint type, geography, and company, and standardizing the raw complaint volume to complaints per 100,000 residents to enable state-level comparisons.
 
 Complaint data is subject to some degree of undercoverage bias: only consumers who are aware of the CFPB, and those among them who documented and submitted their grievances, are accounted for in these findings. It is also worth noting that complaints are entirely self-reported, though they’re only published to the database once companies have had a chance to respond or after two weeks have elapsed without a response.
 
 ****Key Findings****
 
-1. Five issues account for roughly 70% of all complaints.
 
+**1. Five issues account for roughly 70% of all complaints.**
+
+<img width="1442" height="608" alt="image" src="https://github.com/user-attachments/assets/a89b2213-faf4-4d04-89b3-b97b98b85d88" />
 
 
 High interest and fees are standard features of payday loans, and borrowers are aware of that — at least in theory, since lenders are required by the Truth in Lending Act to disclose all fees and annual rates before any agreements are signed. Though the CFPB uses standardized taxonomy to categorize submissions, it can be reasonably inferred that the primary complaint —“Charged fees or interest you didn’t expect” — goes beyond dissatisfaction with loan costs; what nearly 30% of complaints speak to is a lack of transparency regarding the actual terms of loans.
