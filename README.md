@@ -7,15 +7,21 @@ Analyzed 5,600 CFPB complaints to identify patterns in payday lending industry. 
 Since 2023, nearly 5,600 complaints have been filed with the Consumer Financial Protection Bureau (CFPB) against payday lenders. The harm committed by this industry is systematic and pervasive — lenders issue loans under false pretenses, design fee structures that ensnare vulnerable communities in debt cycles, and exploit regulatory blind spots to evade accountability. This brief builds on existing research by focusing on borrowers who documented their experiences firsthand.
 
 Three central findings emerged from this research:
-*Five issues account for nearly 70% of complaints in the database. The two most commonly reported were improper disclosure of loan terms and challenges with making repayment.
 
-*States that banned or instituted interest rate caps typically registered a lower complaint volume. However, high volumes were still seen across a few jurisdictions that have effectively banned payday lending, revealing a gap in how laws are enforced between storefront and online lenders.
 
-*At the company level, 5% of lenders account for over half of all complaints. Industry consolidation is one explanation for this, as the company with the highest volume serves as the parent for 13 different brands. In other instances, companies claim tribal affiliation, a protection that non-native lenders have repeatedly exploited to operate outside state laws.
+**-- Five issues account for nearly 70% of complaints in the database. The two most commonly reported were improper disclosure of loan terms and challenges with making repayment.**
+
+
+**-- States that banned or instituted interest rate caps typically registered a lower complaint volume. However, high volumes were still seen across a few jurisdictions that have effectively banned payday lending, revealing a gap in how laws are enforced between storefront and online lenders.**
+
+
+**-- At the company level, 5% of lenders account for over half of all complaints. Industry consolidation is one explanation for this, as the company with the highest volume serves as the parent for 13 different brands. In other instances, companies claim tribal affiliation, a protection that non-native lenders have repeatedly exploited to operate outside state laws.**
 
 An extensive body of published research attests to the predatory nature of payday lending, but the CFPB’s complaint data adds a human element often missing from these reports. When we look at the industry alongside borrowers’ experiences, researchers and regulators can better understand this lending practice from all dimensions.
 
 ****Background****
+
+
 Payday loans are short-term cash advances offered by lenders outside of the traditional banking system. Twelve million Americans take out at least one every year, a disproportionate share from the 18.4% of U.S. households that are either unbanked or underbanked. When banks classify borrowers as subprime, they are effectively shut out of mainstream financial services and become increasingly reliant on products with fewer protections and significantly higher interest rates. Payday loan rates can exceed 400% APR in states without strict usury laws, and as of 2023, only 21 states and the District of Columbia had either banned payday lending or capped rates at 36% APR.
 
 Someone might take out a payday loan to help cover rent and groceries, only to find that it compounds their existing debt. When they first go to receive the advance, the lender may require authorization to withdraw the total amount from their account upon a specified day, typically their next payday. If they have insufficient funds on the loan’s maturity date, a withdrawal could trigger overdraft fees; furthermore, if their account were to remain overdrawn for an extended period, it could be at risk for closure. At this point, the borrower can either extend the loan for an additional fee or take out a new one to pay off the existing balance. This marks the beginning of a cycle of debt. The CFPB found that 4 out of every 5 payday loans are either rolled over or re-borrowed, incurring fees after every renewal. Certain states mandate that payday loan agreements include no-cost extension plans alongside fee-based options, but the success of this provision hinges on lenders forfeiting the revenue they collect from penalties. According to the Center for Responsible Lending, payday lenders collected $2.4 billion in fees across 2025. The proportion of borrowers struggling to make repayment, set against the sheer volume of fees collected across the market, provides insight into an industry where repeat borrowing drives profitability.
