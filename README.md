@@ -1,6 +1,10 @@
 # analysis-of-CFPB-complaints-against-payday-lenders
 Analyzed 5,600 CFPB complaints to identify patterns in payday lending industry. Communicated key findings related to deceptive loan terms, gaps in regulatory enforcement, and consolidation and regulatory arbitrage patterns among companies. Published on Substack, June 2026.
 
+**Substack Link**
+
+https://substack.com/home/post/p-202912409
+
 ****Summary****
 
 
@@ -45,13 +49,18 @@ Complaint data is subject to some degree of undercoverage bias: only consumers w
 <img width="1442" height="608" alt="image" src="https://github.com/user-attachments/assets/a89b2213-faf4-4d04-89b3-b97b98b85d88" />
 
 
+
 High interest and fees are standard features of payday loans, and borrowers are aware of that — at least in theory, since lenders are required by the Truth in Lending Act to disclose all fees and annual rates before any agreements are signed. Though the CFPB uses standardized taxonomy to categorize submissions, it can be reasonably inferred that the primary complaint —“Charged fees or interest you didn’t expect” — goes beyond dissatisfaction with loan costs; what nearly 30% of complaints speak to is a lack of transparency regarding the actual terms of loans.
 
 An additional 11% of consumers reported receiving a loan they didn’t apply for, and the CFPB addresses this in their 2025 Annual Report. When the Bureau confronted companies about these unknown agreements, some lenders stated that the loans were valid and would not be cancelled, while others requested additional information to pursue identity theft claims. Borrowers are susceptible to fraud when their personal information is mismanaged, but in some instances, lenders intentionally collaborate with third parties in predatory ways. In 2014, the CFPB filed a lawsuit against Richard Mosley Sr., Richard Mosley Jr., and 20 corporate entities collectively known as the Hydra Group. The lender gained access to consumers’ checking accounts through online lead generators, and used falsified loan agreements to deposit payday loans and withdraw fees without consumers’ knowledge or consent. In 2018, the defendants were ordered to pay nearly $70 million in restitution, and it would take another two years for affected parties to receive compensation.
 
 The remaining complaints tell a similar story: lenders extracting more than what they are owed, and avoiding accountability when customers try to contact them.
 
-2. State bans and rate caps reduce harm, but online lenders still beat the system.
+
+**2. State bans and rate caps reduce harm, but online lenders still beat the system.**
+
+
+<img width="1314" height="1200" alt="image" src="https://github.com/user-attachments/assets/418d9808-23b5-47db-99be-86b572989282" />
 
 
 
@@ -61,12 +70,18 @@ Among the 16 jurisdictions with the highest complaint volume, nearly 40% are in 
 
 State and municipal records for Georgia, Maryland, and D.C. indicate that high-interest payday lending has been effectively outlawed in all three jurisdictions. However, they all received a high concentration of complaints over the last three and a half years. The likely explanation is a disparity in the way state mandates are enforced against online versus brick-and-mortar enterprises. Both types of lenders are required to be licensed in and compliant with the laws of consumers’ respective states, but in reality, shutting down a digital operator, particularly one incorporated away from a banned or regulated jurisdiction, is far more difficult than closing a local storefront. The payday lending industry has also undergone a significant shift towards online lending following the COVID-19 pandemic, which may allow lenders to continue to outpace state regulation efforts.
 
-3. Over 50% of the complaints belonged to only 5% of lenders, a byproduct of industry consolidation and regulatory arbitrage.
+
+**3. Over 50% of the complaints belonged to only 5% of lenders, a byproduct of industry consolidation and regulatory arbitrage.**
+
+
+<img width="1456" height="968" alt="image" src="https://github.com/user-attachments/assets/6fc53515-8aed-4ae2-88d9-47970f333b21" />
 
 
 
 The shift towards online lending has resulted in the majority of storefronts consolidating under four national companies. One of those companies, Community Choice Financial, operates under 13 different consumer-facing brands, and received the most complaints over the last three and a half years. In the database, all complaints against CCF’s subsidiaries ultimately trace back to the parent; while this may partially account for the distribution of complaints, it also obscures the scale of a single lender’s market dominance.
 
+
+<img width="1456" height="704" alt="image" src="https://github.com/user-attachments/assets/ca87e803-577f-4356-89d6-e0fadd884e56" />
 
 
 
@@ -74,6 +89,8 @@ Other top companies had incorporation structures that allowed them to operate be
 
 Meanwhile, Martorello would use his own company – Bellicose Capital, LLC – to fund the loans, control underwriting, and handle the day-to-day operations of the business. Bellicose Capital had been issuing high-interest loans in Virginia since 2011, and in 2016, Martorello transferred the company’s rights to the Tribe to evade regulatory scrutiny. Soon after, Bellicose was rebranded into Ascension Technologies, and it continued to operate with minimal financial benefit to the tribe.
 
-Closing Note
+**Closing Note**
+
+
 CFPB complaint data provides one of the few opportunities for researchers to gain insight into borrowers’ experiences while also evaluating the effectiveness of regulatory efforts. For state regulators, the data helps identify companies with the highest complaint volume in their jurisdictions, and inform where enforcement should be prioritized. Anyone can download data from the complaint system — researchers, borrowers, and lenders themselves. When used as a complementary tool to industry research, complaints provide insight into geographic and regulatory gaps so that consumer protection can be strengthened.
 
