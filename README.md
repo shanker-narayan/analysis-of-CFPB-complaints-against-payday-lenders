@@ -2,7 +2,8 @@
 Analyzed 5,600 CFPB complaints to identify patterns in payday lending industry. Communicated key findings related to deceptive loan terms, gaps in regulatory enforcement, and consolidation and regulatory arbitrage patterns among companies. Published on Substack, June 2026.
 
 ****Summary****
-**test**
+
+
 Since 2023, nearly 5,600 complaints have been filed with the Consumer Financial Protection Bureau (CFPB) against payday lenders. The harm committed by this industry is systematic and pervasive — lenders issue loans under false pretenses, design fee structures that ensnare vulnerable communities in debt cycles, and exploit regulatory blind spots to evade accountability. This brief builds on existing research by focusing on borrowers who documented their experiences firsthand.
 
 Three central findings emerged from this research:
