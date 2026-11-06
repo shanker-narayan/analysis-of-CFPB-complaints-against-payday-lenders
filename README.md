@@ -1,9 +1,6 @@
 # analysis-of-CFPB-complaints-against-payday-lenders
 I analyzed ~5,600 CFPB complaints filed against payday lenders (2023 to May 2026) to identify patterns in complaint types, state-level geography, and company concentration.
 
-**Substack Link**
-
-https://substack.com/home/post/p-202912409
 
 ****Summary****
 
@@ -11,13 +8,13 @@ https://substack.com/home/post/p-202912409
 Since 2023, nearly 5,600 complaints have been filed with the Consumer Financial Protection Bureau (CFPB) against payday lenders. Three central findings emerged from this research:
 
 
-**-- Five issues account for nearly 70% of complaints in the database. The two most commonly reported were improper disclosure of loan terms and challenges with making repayment.**
+**-- Five issues account for nearly 70% of complaints in the database. The two most commonly reported were unexpected fees and interest, and challenges with making repayment.**
 
 
 **-- States that banned or instituted interest rate caps typically registered a lower complaint volume. However, high volumes were still seen across a few jurisdictions that have effectively banned payday lending, revealing a gap in how laws are enforced between storefront and online lenders.**
 
 
-**-- At the company level, 5% of lenders account for over half of all complaints. Industry consolidation is one explanation for this, as the company with the highest volume serves as the parent for 13 different brands. In other instances, companies claim tribal affiliation, a protection that non-native lenders have repeatedly exploited to operate outside state laws.**
+**-- At the company level, 5% of lenders account for over half of all complaints. Industry consolidation is one explanation for this, as the company with the highest volume serves as the parent for 13 different brands. In other instances, companies claim tribal affiliation, a protection that non-native lenders have used to operate outside state laws.**
 
 
 ****Background****
