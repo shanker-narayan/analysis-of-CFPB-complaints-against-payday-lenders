@@ -1,5 +1,5 @@
 # analysis-of-CFPB-complaints-against-payday-lenders
-Analyzed 5,600 CFPB complaints to identify patterns in payday lending industry. Communicated key findings related to deceptive loan terms, gaps in regulatory enforcement, and consolidation and regulatory arbitrage patterns among companies. Published on Substack, June 2026.
+I analyzed ~5,600 CFPB complaints filed against payday lenders (2023 to May 2026) to identify patterns in complaint types, state-level geography, and company concentration.
 
 **Substack Link**
 
@@ -8,9 +8,7 @@ https://substack.com/home/post/p-202912409
 ****Summary****
 
 
-Since 2023, nearly 5,600 complaints have been filed with the Consumer Financial Protection Bureau (CFPB) against payday lenders. The harm committed by this industry is systematic and pervasive — lenders issue loans under false pretenses, design fee structures that ensnare vulnerable communities in debt cycles, and exploit regulatory blind spots to evade accountability. This brief builds on existing research by focusing on borrowers who documented their experiences firsthand.
-
-Three central findings emerged from this research:
+Since 2023, nearly 5,600 complaints have been filed with the Consumer Financial Protection Bureau (CFPB) against payday lenders. Three central findings emerged from this research:
 
 
 **-- Five issues account for nearly 70% of complaints in the database. The two most commonly reported were improper disclosure of loan terms and challenges with making repayment.**
@@ -21,23 +19,20 @@ Three central findings emerged from this research:
 
 **-- At the company level, 5% of lenders account for over half of all complaints. Industry consolidation is one explanation for this, as the company with the highest volume serves as the parent for 13 different brands. In other instances, companies claim tribal affiliation, a protection that non-native lenders have repeatedly exploited to operate outside state laws.**
 
-An extensive body of published research attests to the predatory nature of payday lending, but the CFPB’s complaint data adds a human element often missing from these reports. When we look at the industry alongside borrowers’ experiences, researchers and regulators can better understand this lending practice from all dimensions.
 
 ****Background****
 
 
-Payday loans are short-term cash advances offered by lenders outside of the traditional banking system. Twelve million Americans take out at least one every year, a disproportionate share from the 18.4% of U.S. households that are either unbanked or underbanked. When banks classify borrowers as subprime, they are effectively shut out of mainstream financial services and become increasingly reliant on products with fewer protections and significantly higher interest rates. Payday loan rates can exceed 400% APR in states without strict usury laws, and as of 2023, only 21 states and the District of Columbia had either banned payday lending or capped rates at 36% APR.
+Payday loans are short-term cash advances offered by lenders outside of the traditional banking system. Twelve million Americans take out at least one every year, a disproportionate share from the 18.4% of U.S. households that are either unbanked or underbanked. When borrowers are classified as 'subprime', they are effectively shut out of mainstream financial services and become increasingly reliant on products with fewer protections and significantly higher interest rates. Payday loan rates can exceed 400% APR in states without strict usury laws, and as of 2023, only 21 states and the District of Columbia had either banned payday lending or capped rates at 36% APR.
 
 Someone might take out a payday loan to help cover rent and groceries, only to find that it compounds their existing debt. When they first go to receive the advance, the lender may require authorization to withdraw the total amount from their account upon a specified day, typically their next payday. If they have insufficient funds on the loan’s maturity date, a withdrawal could trigger overdraft fees; furthermore, if their account were to remain overdrawn for an extended period, it could be at risk for closure. At this point, the borrower can either extend the loan for an additional fee or take out a new one to pay off the existing balance. This marks the beginning of a cycle of debt. The CFPB found that 4 out of every 5 payday loans are either rolled over or re-borrowed, incurring fees after every renewal. Certain states mandate that payday loan agreements include no-cost extension plans alongside fee-based options, but the success of this provision hinges on lenders forfeiting the revenue they collect from penalties. According to the Center for Responsible Lending, payday lenders collected $2.4 billion in fees across 2025. The proportion of borrowers struggling to make repayment, set against the sheer volume of fees collected across the market, provides insight into an industry where repeat borrowing drives profitability.
 
-Following a wave of banking deregulation in the 1980s, the financial industry underwent significant restructuring. Community banks were acquired at scale by larger institutions, and structures that had served lower-income neighborhoods and communities of color disappeared once they were deemed unprofitable. Alternative financial services emerged to fill the void in these areas, though driven by opportunity rather than integrity.
-
-Existing research documents the mechanism of payday lending, which groups are most vulnerable and affected, and how states are taking action against lenders, but CFPB complaints provide further insight into the companies committing the alleged harm, the frequency with which individuals struggle to contact or resolve disputes with their lenders, and the types of situations the agency is most often asked to mediate. The database also allows researchers to assess whether state regulatory efforts match how complaints are distributed geographically.
+Existing research documents the mechanism of payday lending, which groups are most vulnerable, and how states are taking action against lenders, but CFPB complaints provide further insight into the companies committing the alleged harm, the frequency with which individuals struggle to contact or resolve disputes with their lenders, and the types of situations the agency is most often asked to mediate. The database also allows researchers to assess whether state regulatory efforts match how complaints are distributed geographically.
 
 ****Data and Methodology****
 
 
-I reviewed over 5,600 CFPB complaints filed against payday lenders between 2023 and May 2026, aggregating them by complaint type, geography, and company, and standardizing the raw complaint volume to complaints per 100,000 residents to enable state-level comparisons.
+I reviewed over 5,600 CFPB complaints filed against payday lenders between 2023 and May 2026, aggregating them by complaint type, geography, and company, and standardizing the raw complaint volume to complaints per 100,000 residents to enable state-level comparisons. The analysis was done in Jupyter notebooks, and I used Python libraries like Pandas, Numpy, and Seaborn. 
 
 Complaint data is subject to some degree of undercoverage bias: only consumers who are aware of the CFPB, and those among them who documented and submitted their grievances, are accounted for in these findings. It is also worth noting that complaints are entirely self-reported, though they’re only published to the database once companies have had a chance to respond or after two weeks have elapsed without a response.
 
@@ -47,7 +42,6 @@ Complaint data is subject to some degree of undercoverage bias: only consumers w
 **1. Five issues account for roughly 70% of all complaints.**
 
 <img width="1442" height="608" alt="image" src="https://github.com/user-attachments/assets/a89b2213-faf4-4d04-89b3-b97b98b85d88" />
-
 
 
 High interest and fees are standard features of payday loans, and borrowers are aware of that — at least in theory, since lenders are required by the Truth in Lending Act to disclose all fees and annual rates before any agreements are signed. Though the CFPB uses standardized taxonomy to categorize submissions, it can be reasonably inferred that the primary complaint —“Charged fees or interest you didn’t expect” — goes beyond dissatisfaction with loan costs; what nearly 30% of complaints speak to is a lack of transparency regarding the actual terms of loans.
